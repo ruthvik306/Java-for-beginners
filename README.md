@@ -6,7 +6,6 @@
 <img style="padding:10px;" src="https://img.shields.io/github/forks/ruthvik306/Java-for-beginners?label=Forks&style=flat-square">
 <img style="padding:10px;" src="https://img.shields.io/github/stars/ruthvik306/Java-for-beginners?style=flat-square">
 <img style="padding:10px;" src="https://img.shields.io/github/languages/count/ruthvik306/Java-for-beginners?style=flat-square">
-<img style="padding:10px;" src="https://img.shields.io/github/license/ruthvik306/Java-for-beginners?style=flat-square">
 
 
 A Repsitory which has all the basic programs of java for beginners for learning and quick reference.
