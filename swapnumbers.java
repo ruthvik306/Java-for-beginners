@@ -7,15 +7,12 @@ public class SwapingNumbers {
         System.out.println("--Before swaping--");
         System.out.println("First number = " + a);
         System.out.println("Second number = " + b);
+        a=a+b;
+        // Value of a is assigned to b
+        b=a-b;
 
-        // Value of first number is assigned to temporary
-        float temporary = a;
-
-        // Value of second number is assigned to first
-        a = b;
-
-        // Value of temporary which contains the initial value of first number is assigned to second
-        b = temporary;
+        // Value of b is assigned to a
+        a = a-b;
 
         System.out.println("--After swaping--");
         System.out.println("First number = " + a);
