@@ -46,8 +46,7 @@ class Graph
     // The function to do DFS traversal. It uses recursive DFSUtil() 
     void DFS(int v) 
     { 
-        // Mark all the vertices as not visited(set as 
-        // false by default in java) 
+        // Mark all the vertices as not visited(set as false by default in java) 
         boolean visited[] = new boolean[V]; 
   
         // Call the recursive helper function to print DFS traversal 
@@ -65,9 +64,7 @@ class Graph
         g.addEdge(2, 3); 
         g.addEdge(3, 3); 
   
-        System.out.println("Following is Depth First Traversal "+ 
-                           "(starting from vertex 2)"); 
-  
+        System.out.println("Following is Depth First Traversal (starting from vertex 2)"); 
         g.DFS(2); 
     } 
 } 
