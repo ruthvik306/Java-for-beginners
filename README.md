@@ -1,8 +1,9 @@
 <h1 align="center">Java for beginners</h1>
 
 <p align="center">
-<img style="padding:15px;" src="https://img.shields.io/github/contributors/ruthvik306/Java-for-beginners?style=flat-square">
+
 <img style="padding:15px;" src="https://img.shields.io/github/hacktoberfest/2020/ruthvik306/Java-for-beginners?suggestion_label=Hacktoberfest&style=flat-square">
+<img style="padding:15px;" src="https://img.shields.io/github/contributors/ruthvik306/Java-for-beginners?style=flat-square">
 <img style="padding:15px;" src="https://img.shields.io/github/forks/ruthvik306/Java-for-beginners?label=Forks&style=flat-square">
 <img style="padding:15px;" src="https://img.shields.io/github/stars/ruthvik306/Java-for-beginners?style=flat-square">
 
