@@ -2,6 +2,7 @@
 
 <p align="center">
 
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/ruthvik306/Java-for-beginners)
 <img style="padding:15px;" src="https://img.shields.io/github/hacktoberfest/2020/ruthvik306/Java-for-beginners?suggestion_label=Hacktoberfest&style=flat-square">
 <img style="padding:15px;" src="https://img.shields.io/github/contributors/ruthvik306/Java-for-beginners?style=flat-square">
 <img style="padding:15px;" src="https://img.shields.io/github/forks/ruthvik306/Java-for-beginners?label=Forks&style=flat-square">
